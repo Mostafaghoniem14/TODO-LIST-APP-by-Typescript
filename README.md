@@ -1,4 +1,4 @@
-# 📝 TypeScript Todo App
+# 📝 TypeScript TODO App
 
 A clean, minimalist Todo List application built with **TypeScript**, **Vite**, and the **UUID** library. This app provides a simple interface for adding, completing, and saving tasks using the browser's local storage.
 
