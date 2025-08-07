@@ -14,11 +14,6 @@ A clean, minimalist Todo List application built with **TypeScript**, **Vite**, a
 
 ---
 
-## 📸 Demo
-
-> 📌 *Live demo link coming soon* (you can host with Vercel, Netlify, or GitHub Pages)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -41,21 +36,8 @@ project-root/
     └── main.ts         # Core application logic
 ```
 
----
-
 ## 📦 Getting Started
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) (comes with Node)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 
 # Install dependencies
 npm install
